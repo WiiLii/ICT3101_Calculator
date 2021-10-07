@@ -6,7 +6,6 @@ using System.Text.RegularExpressions;
 namespace ICT3101_Calculator
 {
     //I am here to make some changes.
-    //ABXY
     public class Calculator
     {
         public Calculator() { }
